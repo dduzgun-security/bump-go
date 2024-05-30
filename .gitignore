@@ -1,0 +1,12 @@
+# IDE
+.idea
+.vscode
+.zed
+
+# Common
+*.tmp
+
+# MacOS
+.DS_Store
+Thumbs.db
+
